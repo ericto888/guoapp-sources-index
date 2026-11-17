@@ -1,0 +1,33 @@
+{
+  "format": 1,
+  "modules": [
+    {
+      "id": "ffzy",
+      "name": "非凡影视",
+      "version": "1.0.0",
+      "description": "非凡影视采集站源，支持分类、搜索、详情与播放。",
+      "api": 1,
+      "adult": false,
+      "repo": "ericto888/guoapp-mod-ffzy",
+      "tag": "v1.0.0",
+      "sha256": {
+        "manifest.json": "b73a88dc465157c51b04ddc01b785b96726893714260dbb1b089549fa89174d2",
+        "main.js": "95aa20bf930d73060681aecd429e97b39f19fe1a6a046c516ce7b8f9d4c17d1c"
+      }
+    },
+    {
+      "id": "xjai6",
+      "name": "香蕉视频",
+      "version": "1.0.0",
+      "description": "香蕉视频站源模块，支持分类、搜索、详情与播放解析。",
+      "api": 1,
+      "adult": true,
+      "repo": "ericto888/guoapp-mod-xjai6",
+      "tag": "v1.0.0",
+      "sha256": {
+        "manifest.json": "e47e8910adc09af928fe6da4008057c81713de0cd80f6dda8944265623fc5d92",
+        "main.js": "d37e21d4d1959f908aafae644f1ce6705827326e22b7967af8df69d021e0884c"
+      }
+    }
+  ]
+}
