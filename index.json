@@ -16,6 +16,20 @@
       }
     },
     {
+      "id": "huanggua",
+      "name": "黄瓜短剧",
+      "version": "1.0.0",
+      "description": "黄瓜短剧，支持推荐、AI 短剧、AI 漫剧、AI 魔改、真人短剧、原创短剧与播放解析。",
+      "api": 1,
+      "adult": false,
+      "repo": "ericto888/guoapp-mod-huanggua",
+      "tag": "v1.0.0",
+      "sha256": {
+        "manifest.json": "c417721add2d1d9a5b98f35b233c48394c665d8fed9257c64b1094a50a99348d",
+        "main.js": "50cff9f25f60e5cb85c79388f8a8b6de4b0c6edc4242b486ceaaeaa585812ad5"
+      }
+    },
+    {
       "id": "xjai6",
       "name": "香蕉视频",
       "version": "1.0.0",
