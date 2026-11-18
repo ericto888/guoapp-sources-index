@@ -2,6 +2,20 @@
   "format": 1,
   "modules": [
     {
+      "id": "dsd-custom",
+      "name": "帝果（自建）",
+      "version": "1.0.4",
+      "description": "帝果短剧自建站源，支持主备域名自动切换、分类、搜索、详情与播放解析。",
+      "api": 1,
+      "adult": true,
+      "repo": "ericto888/guoapp-mod-dsd-custom",
+      "tag": "v1.0.4",
+      "sha256": {
+        "manifest.json": "24f69eb71449346a6818daca0b4a94aee432a53481637bd63bdb8a5708ef0d6c",
+        "main.js": "3e3e9c9fcec8715daf3edd24b0d4ed044ab1bd63f806513282790026d2df356d"
+      }
+    },
+    {
       "id": "ffzy",
       "name": "非凡影视",
       "version": "1.0.0",
@@ -27,20 +41,6 @@
       "sha256": {
         "manifest.json": "c417721add2d1d9a5b98f35b233c48394c665d8fed9257c64b1094a50a99348d",
         "main.js": "50cff9f25f60e5cb85c79388f8a8b6de4b0c6edc4242b486ceaaeaa585812ad5"
-      }
-    },
-    {
-      "id": "dsd-custom",
-      "name": "帝果（自建）",
-      "version": "1.0.4",
-      "description": "帝果短剧自建站源，支持主备域名自动切换、分类、搜索、详情与播放解析。",
-      "api": 1,
-      "adult": true,
-      "repo": "ericto888/guoapp-mod-dsd",
-      "tag": "v1.0.4",
-      "sha256": {
-        "manifest.json": "81846028c003fb6f5faa6371016b74f783a5b80054ba53ce859f86c60e981289",
-        "main.js": "80752c86f780110238b105f1f3417bee8345f10635a6f6135430a68dfe6af5cd"
       }
     }
   ]
