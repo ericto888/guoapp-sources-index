@@ -30,16 +30,16 @@
       }
     },
     {
-      "id": "dsd",
-      "name": "帝果",
-      "version": "1.0.3",
-      "description": "帝果短剧站源，支持主备域名自动切换、分类、搜索、详情与播放解析。",
+      "id": "dsd-custom",
+      "name": "帝果（自建）",
+      "version": "1.0.4",
+      "description": "帝果短剧自建站源，支持主备域名自动切换、分类、搜索、详情与播放解析。",
       "api": 1,
       "adult": true,
       "repo": "ericto888/guoapp-mod-dsd",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "sha256": {
-        "manifest.json": "a9329e4ad544d4cce4ccaed52245f865a2978fdc93011e92b9e3dca7377c7972",
+        "manifest.json": "81846028c003fb6f5faa6371016b74f783a5b80054ba53ce859f86c60e981289",
         "main.js": "80752c86f780110238b105f1f3417bee8345f10635a6f6135430a68dfe6af5cd"
       }
     }
