@@ -30,6 +30,20 @@
       }
     },
     {
+      "id": "hongguo-self",
+      "name": "红果",
+      "version": "1.0.6",
+      "description": "短剧 · 漫剧 · AI 剧 · 听书",
+      "api": 1,
+      "adult": false,
+      "repo": "ericto888/guoapp-mod-hongguo-self",
+      "tag": "v1.0.6",
+      "sha256": {
+        "manifest.json": "7c7c01b3c2aaaae5a210dac413557bb43ddab9a130febaaf507c5243aaac6f6f",
+        "main.js": "be8d06440d050a29d685bf5a4489445f5b102e9ff894629d6ef95cc85c536af8"
+      }
+    },
+    {
       "id": "huanggua",
       "name": "黄瓜短剧",
       "version": "1.0.0",
