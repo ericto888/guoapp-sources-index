@@ -60,15 +60,15 @@
     {
       "id": "missav",
       "name": "MissAV",
-      "version": "1.0.0",
-      "description": "MissAV 成人长视频站源，支持多镜像探测、中文分类、搜索、详情和 HLS 画质解析。",
+      "version": "1.0.1",
+      "description": "MissAV 成人长视频站源，支持多镜像自动探测、中文分类、搜索、详情与 HLS 画质解析。",
       "api": 1,
       "adult": true,
       "repo": "ericto888/guoapp-mod-missav",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "sha256": {
-        "manifest.json": "d206d599576e3113250b429017c08ccf9320ab59b4d29559497a10219ebfe9bc",
-        "main.js": "f6e7ad60c764cd97d994f59cce52ca9201be152932b2f39ce09e8e890c87c538"
+        "manifest.json": "4394b657b973a579b846aa69770cbcd41ad0baa7b29e83352e47ffa4d2285071",
+        "main.js": "6f1c7ab7815f86238d05da58011f311cc4ffa27760c6a37fd2c31bad2b0993b3"
       }
     },
     {
