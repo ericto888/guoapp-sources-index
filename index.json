@@ -46,15 +46,15 @@
     {
       "id": "huanggua",
       "name": "黄瓜短剧",
-      "version": "1.0.0",
-      "description": "黄瓜短剧，支持推荐、AI 短剧、AI 漫剧、AI 魔改、真人短剧、原创短剧与播放解析。",
+      "version": "1.0.1",
+      "description": "黄瓜短剧，支持最新地址自动发现、VPN 下刷新线路、线路缓存与失效回退，以及分类、详情和播放解析。",
       "api": 1,
       "adult": false,
       "repo": "ericto888/guoapp-mod-huanggua",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "sha256": {
-        "manifest.json": "c417721add2d1d9a5b98f35b233c48394c665d8fed9257c64b1094a50a99348d",
-        "main.js": "50cff9f25f60e5cb85c79388f8a8b6de4b0c6edc4242b486ceaaeaa585812ad5"
+        "manifest.json": "f2af707755a674555a10e0f92fb90cc89f2b51190fbb4ade8ec9f524867cdc87",
+        "main.js": "3edb784d61f8108ceb687923fb3e369d9ab359fa4fdc172b7912a6cf29b5d5b1"
       }
     },
     {
