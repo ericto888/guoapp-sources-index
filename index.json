@@ -60,15 +60,15 @@
     {
       "id": "xvideos",
       "name": "XVideos",
-      "version": "1.0.9",
-      "description": "XVideos 视频站源，扩展旧式 flv_url、通用 setVideo 函数及播放器配置解析，并增强字段诊断。",
+      "version": "1.0.10",
+      "description": "XVideos 视频站源，分类名称中文化，并扩展播放器配置解析与字段诊断。",
       "api": 1,
       "adult": true,
       "repo": "ericto888/guoapp-mod-xvideos",
-      "tag": "v1.0.9",
+      "tag": "v1.0.10",
       "sha256": {
-        "manifest.json": "8a67ec789ae9004863226838e52979e4b5bdcf87972c57660f7e1ef324ab59a8",
-        "main.js": "a018c30ffea2fa7dd333e99ddf8f68adf17c2fa1c2e55360231f8d5f635688c1"
+        "manifest.json": "e59611c6c963d35dc2925fb9acb54a131e5e37fbcc6eb78ff09a8e73d2de6a09",
+        "main.js": "34a3e5c59c685dc03d6c08b102bdc4a3121ecf8a68d0b0ac935a5f71a5942ddb"
       }
     }
   ]
