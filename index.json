@@ -60,15 +60,15 @@
     {
       "id": "xvideos",
       "name": "XVideos",
-      "version": "1.0.7",
-      "description": "XVideos 视频站源，支持分类、最新目录、搜索、详情与播放解析，含播放页诊断信息。",
+      "version": "1.0.8",
+      "description": "XVideos 视频站源，保留原始视频页 URL，使用桌面 Safari UA，并增强播放页诊断。",
       "api": 1,
       "adult": true,
       "repo": "ericto888/guoapp-mod-xvideos",
-      "tag": "v1.0.7",
+      "tag": "v1.0.8",
       "sha256": {
-        "manifest.json": "ad0da85b1cbcb54e58ba0e175e60d79637c6bdc172cad27b41bc0042a41babf8",
-        "main.js": "6bac3e7496422e67d31ab14f099a577c10e542aab0543eeef45a50fc90d64666"
+        "manifest.json": "5332f4880cf15b2f94185146dadb59cd93fafa691f7d6bb46875a8be02f0afe7",
+        "main.js": "6631c8140808f648effe1fe7a346e785deb4c98ee9c8cd3096052dbe98206aac"
       }
     }
   ]
