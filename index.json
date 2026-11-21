@@ -56,6 +56,20 @@
         "manifest.json": "c417721add2d1d9a5b98f35b233c48394c665d8fed9257c64b1094a50a99348d",
         "main.js": "50cff9f25f60e5cb85c79388f8a8b6de4b0c6edc4242b486ceaaeaa585812ad5"
       }
+    },
+    {
+      "id": "xvideos",
+      "name": "XVideos",
+      "version": "1.0.0",
+      "description": "XVideos 视频站源，支持分类、最新目录、搜索、详情与播放解析。",
+      "api": 1,
+      "adult": true,
+      "repo": "ericto888/guoapp-mod-xvideos",
+      "tag": "v1.0.0",
+      "sha256": {
+        "manifest.json": "dfb9f1768a9da76c30f96c70c4858df2fb9004f2926433d5b6db6bb625541180",
+        "main.js": "7e1623184e4ba1d6cc2122cd87576af8fa3c3687f959d3f995d84b3bcbaa8450"
+      }
     }
   ]
 }
