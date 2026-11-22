@@ -32,14 +32,14 @@
     {
       "id": "hongguo-self",
       "name": "红果",
-      "version": "1.0.14",
+      "version": "1.0.15",
       "description": "短剧 · 漫剧 · AI 剧 · 听书 · 多维筛选 · 原生榜单",
       "api": 1,
       "adult": false,
       "repo": "ericto888/guoapp-mod-hongguo-self",
-      "tag": "v1.0.14",
+      "tag": "v1.0.15",
       "sha256": {
-        "manifest.json": "872719f472a55691b3c0f3f6acd01951197e50c4e5530004bdd919e18662454a",
+        "manifest.json": "7685c6a9cb2df0245dde143425f106c6882cc124b936565e814507daa2282cc6",
         "main.js": "4cb7944aa879765d6ddd6ad7d7953a3e341423bce961c0b5e8662bdc801d58bd"
       }
     },
