@@ -46,14 +46,14 @@
     {
       "id": "huanggua",
       "name": "黄瓜短剧",
-      "version": "1.0.4",
+      "version": "1.4.8",
       "description": "黄瓜短剧，支持最新地址自动发现、VPN 下刷新线路、线路缓存、页面异常自动换线重试，以及分类、详情和播放解析。",
       "api": 1,
       "adult": false,
       "repo": "ericto888/guoapp-mod-huanggua",
-      "tag": "v1.0.4",
+      "tag": "v1.4.8",
       "sha256": {
-        "manifest.json": "c67851cf38f730c9764e7191b9e21ac8daf18401c3d483de12a14e3618b399df",
+        "manifest.json": "8ba8aa447cb4ebd21275f513dfdac2aa78c6e3aa04da5120672298779d9eed63",
         "main.js": "8b4b4a50e9d1321940b62cdaa529aeda1138e2ccb576adfbe961e2694230e731"
       }
     },
